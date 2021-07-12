@@ -1,0 +1,19 @@
+table{
+    background-color: rosybrown;
+    margin: auto;
+}
+#result{
+    width: 190px;
+}
+.tinh{
+    width: 34px;
+    height: 32px;
+}
+#bang{
+    height: 66px;
+    width: 34px;
+}
+#khong{
+    width: 72px;
+    height: 32px;
+}
